@@ -1,0 +1,4 @@
+#include <stdio.h>
+Int main() {
+Printf("Hello, world\N")
+} 
